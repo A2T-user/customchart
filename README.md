@@ -21,7 +21,7 @@
 - скругление концов секторов
 - вставка иконок на концах секторов
 - подписи % для каждого сектора ориентированные по радиусу
+- поддержка светлой и темной темы
 - настройка внешнего вида: возможность изменить размер шрифта и отношение толщины кольца к диаметру
 ### Визуальный облик:
-<img src="https://github.com/A2T-user/A2T-user/blob/main/446602042-54c4cb9c-00a1-49ea-b8cc-72ad8dedfd27.gif" width="30%" height="30%"> <img src="https://github.com/A2T-user/A2T-user/blob/main/446602606-0227789d-4460-4aac-af61-01ee78da73d2.gif" width="30%" height="30%">
-<img src="https://github.com/A2T-user/A2T-user/blob/main/446602842-afdb2860-0974-4a31-9c4b-13c3124373de.gif" width="30%" height="30%">
+<img src="https://github.com/A2T-user/A2T-user/blob/main/Screen_Recording_1.gif" width="30%" height="30%"> <img src="https://github.com/A2T-user/A2T-user/blob/main/Screen_Recording_2.gif" width="30%" height="30%">
