@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Chart</string>
+    <string name="hint">Введите массив чисел через запятую</string>
+</resources>

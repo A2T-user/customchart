@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.CustomChart" parent="Theme.Material3.DayNight.NoActionBar"/>
+
+    <style name="Theme.CustomChart" parent="Base.Theme.CustomChart">
+        <item name="backgroundColor">@color/white</item>
+        <item name="grandColor">@color/white</item>
+        <item name="textColor">@color/black</item>
+    </style>
+</resources>

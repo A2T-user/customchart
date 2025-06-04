@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <!-- Цвета диаграммы -->
+    <color name="color1">#FF6B6B</color>
+    <color name="color2">#FFB400</color>
+    <color name="color3">#5FDA91</color>
+    <color name="color4">#3498DB</color>
+    <color name="color5">#A56EFF</color>
+    <color name="color6">#FFD93D</color>
+    <color name="color7">#FF5EAA</color>
+    <color name="color8">#738ADB</color>
+</resources>
